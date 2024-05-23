@@ -1,0 +1,31 @@
+/* App.css */
+
+.App {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+}
+
+th, td {
+  padding: 10px;
+  border: 1px solid #ddd;
+  text-align: left;
+}
+
+th {
+  background-color: #f4f4f4;
+  cursor: pointer;
+}
+
+th span {
+  margin-left: 5px;
+}
+
+th .fas {
+  margin-left: 5px;
+}
